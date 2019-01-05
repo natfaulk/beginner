@@ -1,0 +1,15 @@
+{
+  "name": "beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "electron": "^3.0.12"
+  }
+}
