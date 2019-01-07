@@ -52,6 +52,10 @@ setInterval(() => {
   // set fill color to purple
   d.fill('purple')
 
+  // add some text
+  d.textSize(20)
+  d.text("Click to add dots", 20, 20)
+  
   // loop through each circle
   allCircles.forEach(_circle => {
     // and draw it
