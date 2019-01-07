@@ -1,5 +1,7 @@
 # Really basic program to draw stuff in
 
+Uses [this library](https://github.com/natfaulk/mindrawingjs) for the drawing but could also easily use p5.js instead
+
 ## To install and run
 1. Download this repository using `git clone xxx`
 2. Install the needed dependencies `npm install`

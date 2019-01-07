@@ -7,7 +7,7 @@
 
 // my drawing library I wrote. Another one to look into would P5.js which has more features
 // The advantage of mine is it is super lightweight and therefore runs pretty fast 
-const Mindrawing = require('./mindrawing.min.js')
+const Mindrawing = require('mindrawingjs')
 
 // use console.log() to write to the output
 console.log('Setup began')

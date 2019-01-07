@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.7.5",
-    "electron": "^3.0.12"
+    "electron": "^3.0.12",
+    "mindrawingjs": "git+https://github.com/natfaulk/mindrawingjs.git"
   }
 }
